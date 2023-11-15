@@ -15,3 +15,4 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![Email.js](https://img.shields.io/badge/Email.js-44A8B7?style=flat-square&logo=email.js&logoColor=white)
+
